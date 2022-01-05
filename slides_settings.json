@@ -4,12 +4,12 @@
   "course": "bacs200",
   "author": "Steven Sanchez",
   "organization": "University of Northern Colorado",
-  "cover": "/static/images/course/bacs200/autumn-leaves.jpg",
-  "logo": "/static/images/course/bacs200/Bear.png",
+  "cover": "/static/images/course/bacs200/lesson/autumn-leaves.jpg",
+  "logo": "/static/images/course/bacs200/lesson/Bear.png",
   "theme": "beige.css",
   "stylesheet": "/static/slides.css",
   "images": "/static/images/course/bacs200/lesson",
-  "divider": "/static/images/course/bacs200/peaking.800.jpg",
-  "background": "/static/images/course/bacs200/paper.jpg",
+  "divider": "/static/images/course/bacs200/lesson/peaking.800.jpg",
+  "background": "/static/images/course/bacs200/lesson/paper.jpg",
   "intro": false
 }
