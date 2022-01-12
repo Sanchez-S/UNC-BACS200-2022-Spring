@@ -12,7 +12,7 @@ BACS 200 - Fall 2021
 ### Sign Up for Zybooks Account
 
 * Do daily readings and exercises
-* A student subscription is $58 and will unlock content past Chapter 1 (Chapter 1 is free).
+* A student subscription is $58 and will unlock content past Chapter 1 and allow you to recieve credit for reading.
 * [Register at ZyBooks](http://learn.zybooks.com)
 * Signup at Zybooks for **Web Publishing** interactive textbook
     1. Create an account at Zybooks
